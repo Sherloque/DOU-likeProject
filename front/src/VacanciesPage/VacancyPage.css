@@ -1,0 +1,38 @@
+.vacancypage-heading{
+    text-align:center;
+    margin-block-start: 0;
+    padding-top:15px;
+    padding-bottom:10px;
+}
+
+.vacancypage-vacancy-block{
+    padding:10px;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+}
+
+.vacancy-block{
+    border:1px solid;
+    display:inline-block;
+}
+
+.vacancyphoto-container{
+    min-width:200px;
+    min-height:200px;
+    background-size: 100% 100%;
+    background-image: url('company logo placeholder.png');
+}
+
+.vacancyphoto{
+    max-width:200px;
+    max-height:200px;
+}
+
+.vacancy-block{
+    display:flex;
+}
+
+.vacancy-info-block{
+    padding:20px;
+}
