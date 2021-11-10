@@ -74,7 +74,7 @@ class MainPage extends React.Component {
                         <aside className="right-sidebar"></aside>
                     </div>
                     <div className="main-footer">
-                        <p className="mainpage-footer-text"> Copyright 2020. Made by Vladyslav Nadolko for research purposes only. vladnadolko.com</p>
+                        <p className="mainpage-footer-text"> Copyright 2020-2021. Made by Vladyslav Nadolko for research purposes only. vladnadolko.com</p>
                     </div>
                 </div>
             );
@@ -116,7 +116,7 @@ class MainPage extends React.Component {
                         <aside className="right-sidebar"></aside>
                     </div>
                     <div className="main-footer">
-                        <p className="mainpage-footer-text"> Copyright 2020. Made by Vladyslav Nadolko for research purposes only. vladnadolko.com</p>
+                        <p className="mainpage-footer-text"> Copyright 2020-2021. Made by Vladyslav Nadolko for research purposes only. vladnadolko.com</p>
                     </div>
                 </div>
             )

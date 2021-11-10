@@ -72,8 +72,6 @@ html,body { height:100%;
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
-.heading-block{
-}
 
 .mainpage-sidebar-wrapper{
     display:flex;
@@ -164,3 +162,59 @@ html,body { height:100%;
 .mainpage-footer-text{
     color:black;
 }
+
+
+@media (max-width:450px) {
+.main-header .top-header-block .mainpage-header-greeting-box .mainpage-logout-btn{
+    width:60px;
+    padding:0px;
+}
+
+.main-header .mainpage-header-greeting{
+    font-weight:700;
+    font-size:30px;
+}
+
+.main-header-heading{
+    font-size:20px;
+    padding:0px;
+    color:white;
+    -webkit-text-stroke: 0.25px black;
+}
+
+.mainpage-main-box{
+    width:100%;
+}
+.main-navigation{
+    background:#649ff7;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    opacity:80%;
+    width:100%;
+}
+
+.main-navigation button{
+    padding:10px 25px;
+    border-bottom:#133e5a 1px solid;
+}
+
+ .left-sidebar, .right-sidebar{
+    display:none;
+}
+.mainpage-sidebar-wrapper{
+    margin-bottom: 0px;
+}
+
+.main-footer{
+    height: auto;
+}
+
+.mainpage-content{
+    flex-direction:column-reverse;
+}
+
+.mainpage-info-paragraph{
+    margin:0px 0px 10px 0px;
+}
+     }
