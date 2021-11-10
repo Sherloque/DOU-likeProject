@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.deba0ef7.chunk.css",
+    "main.js": "/static/js/main.12de0ff6.chunk.js",
+    "main.js.map": "/static/js/main.12de0ff6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6c427cc5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6c427cc5.js.map",
+    "static/js/2.134502a9.chunk.js": "/static/js/2.134502a9.chunk.js",
+    "static/js/2.134502a9.chunk.js.map": "/static/js/2.134502a9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e5e7bc92438d3ad89846ccce72bab321.js": "/precache-manifest.e5e7bc92438d3ad89846ccce72bab321.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.deba0ef7.chunk.css.map": "/static/css/main.deba0ef7.chunk.css.map",
+    "static/js/2.134502a9.chunk.js.LICENSE.txt": "/static/js/2.134502a9.chunk.js.LICENSE.txt",
+    "static/media/MainPage.css": "/static/media/1_5bc883c28a5ea.9586293f.jpg",
+    "static/media/StudentsPage.css": "/static/media/Portrait_Placeholder.4788048f.png",
+    "static/media/csd_emblem updated.jpg": "/static/media/csd_emblem updated.2e94b7a2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c427cc5.js",
+    "static/js/2.134502a9.chunk.js",
+    "static/css/main.deba0ef7.chunk.css",
+    "static/js/main.12de0ff6.chunk.js"
+  ]
+}
