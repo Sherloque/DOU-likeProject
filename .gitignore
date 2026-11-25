@@ -1,0 +1,56 @@
+# Dependencies
+node_modules/
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+
+# Build output
+front/dist/
+front/build/
+front/.next/
+front/.vite/
+back/dist/
+back/build/
+*.tsbuildinfo
+
+# Environment and secrets (keep the example file tracked)
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Test and coverage output
+coverage/
+.nyc_output/
+
+# Caches
+.eslintcache
+.cache/
+.parcel-cache/
+.turbo/
+
+# Python backend (delete this block if the backend is Node)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Editors and OS
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+.DS_Store
+Thumbs.db
